@@ -7,6 +7,6 @@ function discountTicket(number){
   return number * 80/100
 }
 
-// function tweetReply (name){
-//   console.log ("Hey (name), thanks so much for the support! I really appreciate it!"); 
-// }
+function tweetReply (name){
+  console.log ("Hey (name), thanks so much for the support! I really appreciate it!"); 
+}
