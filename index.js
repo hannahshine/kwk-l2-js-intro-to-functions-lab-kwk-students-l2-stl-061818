@@ -4,4 +4,3 @@ function getUKTime() {
   
 }
 getUKTime()
-new Date().getHours()+8
