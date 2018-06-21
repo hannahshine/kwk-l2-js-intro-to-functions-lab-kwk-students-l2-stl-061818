@@ -8,7 +8,5 @@ function discountTicket (number) {
 }
 
 function tweetReply (name) {
-  /*return Hey name, thanks so much for the support! I really appreciate it!; 
-  */
-  return 3;
+  return Hey name, thanks so much for the support! I really appreciate it!;
 }
