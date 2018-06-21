@@ -3,7 +3,7 @@ function getUKTime() {
   new Date().getHours()+5
   
 }
-getUKTime(5)
+getUKTime()
 
 function discountTicket(){
   
