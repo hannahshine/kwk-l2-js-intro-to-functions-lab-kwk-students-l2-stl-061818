@@ -8,5 +8,5 @@ function discountTicket (number) {
 }
 
 function tweetReply (name) {
-  return 'Hey Bruno Mars, thanks so much for the support! I really appreciate it!';
+  return Hey name, thanks so much for the support! I really appreciate it!;
 }
