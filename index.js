@@ -3,8 +3,8 @@ function getUKTime() {
   return new Date().getHours() + 5
 }
 
-function discountTicket(){
-
+function discountTicket(number){
+  return number * 80/100
 }
 
 // function tweetReply (name){
