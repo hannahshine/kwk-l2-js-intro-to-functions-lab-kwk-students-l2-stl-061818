@@ -8,3 +8,7 @@ return getUKTime()
 function discountTicket(){
   
 }
+
+function tweetReply (){
+  let name=""
+}
