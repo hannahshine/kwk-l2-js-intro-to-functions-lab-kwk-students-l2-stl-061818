@@ -9,6 +9,6 @@ function discountTicket(){
   
 }
 
-function tweetReply (){
-  let name=""
+function tweetReply (name){
+  console.log('Hey${name}, thanks so much for the support! I really appreciate it!`)
 }
